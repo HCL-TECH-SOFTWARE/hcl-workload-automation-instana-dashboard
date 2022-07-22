@@ -12,11 +12,14 @@ Use the Instana Dashboard to monitor application usage and performances across t
 Quickly monitor your environments having all data at your fingertips.
 
 You can import the preset Instana Dashboards to Monitor Workload Automation in terms of:
-DB connection status
 
-Flexera Uncounted JOB (HCL Only)
+- DB connection status
 
-WS Status
+- Flexera Uncounted JOB 
 
-JOB status
+- WS Status
 
+- JOB status
+
+
+To view the Workload Automation Instana Dashboad see: [HCL Workload Automation Instana Dashboard](https://github.com/HCL-TECH-SOFTWARE/hcl-workload-automation-instana-dashboard/blob/master/WA_Instana_Dashboard.json)
