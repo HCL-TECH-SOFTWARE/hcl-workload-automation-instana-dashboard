@@ -21,5 +21,8 @@ You can import the preset Instana Dashboards to Monitor Workload Automation in t
 
 - JOB status
 
+Once you have imported the dashboard in you Instana Environment, modify all the Widgets Datasource with the one related to your WA environment. 
 
 To view the Workload Automation Instana Dashboad see: [HCL Workload Automation Instana Dashboard](https://github.com/HCL-TECH-SOFTWARE/hcl-workload-automation-instana-dashboard/blob/master/WA_Instana_Dashboard.json)
+
+For mor information About Instana and its integration with Workload Automation check the blog [Workload Automation Observability with Instana](http://www.workloadautomation-community.com/blogs/workload-automation-observability-infrastructure-and-metrics-monitoring-with-instana)
